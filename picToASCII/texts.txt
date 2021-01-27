@@ -1,0 +1,6 @@
+picToASCII.exe "C:/Users/Renars/source/repos/picToASCII/picToASCII/starting images/1.png" "C:/Users/Renars/source/repos/picToASCII/picToASCII/converted images/text.txt" 60
+picToASCII.exe "D:/My shit/Projects and work/PHOTOS/lighter.png" "C:/Users/Renars/source/repos/picToASCII/picToASCII/converted images/text.txt" 60
+
+D:/My shit/Projects and work/PHOTOS/lighter.png
+
+C:\Users\Renars\source\repos\picToASCII\x64\Debug>
